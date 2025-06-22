@@ -52,10 +52,3 @@ Proyecto para gestionar y analizar datos de un equipo de fútbol, permitiendo ca
 - El archivo de datos debe llamarse `datos_partidos.xlsx` y estar en el mismo directorio que el script.
 - Si quieres usar una interfaz web, puedes adaptar el script con Streamlit (ver sugerencias de mejora).
 
-## Sugerencias de mejora
-- Agregar visualizaciones gráficas (matplotlib, seaborn)
-- Implementar interfaz web (Streamlit, Dash)
-- Añadir gestión de jugadores y estadísticas individuales
-
----
-Proyecto educativo. No usar datos reales sin consentimiento.
